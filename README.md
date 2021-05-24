@@ -1,6 +1,5 @@
 ## 🛠 Setup
 
-
 1. Clone this repo and install required Python dependencies:
 ```
 python3 -m pip install -r requirements.txt
