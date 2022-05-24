@@ -8,5 +8,5 @@ python3 -m pip install -r requirements.txt
 3. Rename the included file `config.sample.json` to `config.json` and fill in your personal bot token.  
 3. Run the bot:
 ```
-python3 bot.py
+python3 main.py
 ```
